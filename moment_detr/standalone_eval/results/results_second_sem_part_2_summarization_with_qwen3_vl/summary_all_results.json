@@ -1,0 +1,250 @@
+{
+    "cartoon": {
+        "run1": {
+            "temp_0.2": {
+                "MR-full-mAP": 18.29,
+                "MR-full-R1@0.5": 33.06
+            }
+        },
+        "run2": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.47,
+                "MR-full-R1@0.5": 35.32
+            }
+        },
+        "run3": {
+            "temp_0.2": {
+                "MR-full-mAP": 21.68,
+                "MR-full-R1@0.5": 39.85
+            }
+        },
+        "run4": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.52,
+                "MR-full-R1@0.5": 35.8
+            }
+        },
+        "run5": {
+            "temp_0.2": {
+                "MR-full-mAP": 13.63,
+                "MR-full-R1@0.5": 24.07
+            }
+        },
+        "run6": {
+            "temp_0.2": {
+                "MR-full-mAP": 13.66,
+                "MR-full-R1@0.5": 24.14
+            }
+        },
+        "run7": {
+            "temp_0.2": {
+                "MR-full-mAP": 18.83,
+                "MR-full-R1@0.5": 33.68
+            }
+        },
+        "run8": {
+            "temp_0.2": {
+                "MR-full-mAP": 14.86,
+                "MR-full-R1@0.5": 27.5
+            }
+        },
+        "run9": {
+            "temp_0.2": {
+                "MR-full-mAP": 15.95,
+                "MR-full-R1@0.5": 29.56
+            }
+        },
+        "run10": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.57,
+                "MR-full-R1@0.5": 36.15
+            }
+        }
+    },
+    "cinematic": {
+        "run1": {
+            "temp_0.2": {
+                "MR-full-mAP": 17.84,
+                "MR-full-R1@0.5": 32.65
+            }
+        },
+        "run2": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.23,
+                "MR-full-R1@0.5": 35.32
+            }
+        },
+        "run3": {
+            "temp_0.2": {
+                "MR-full-mAP": 21.67,
+                "MR-full-R1@0.5": 38.82
+            }
+        },
+        "run4": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.62,
+                "MR-full-R1@0.5": 35.25
+            }
+        },
+        "run5": {
+            "temp_0.2": {
+                "MR-full-mAP": 13.71,
+                "MR-full-R1@0.5": 24.21
+            }
+        },
+        "run6": {
+            "temp_0.2": {
+                "MR-full-mAP": 13.98,
+                "MR-full-R1@0.5": 25.58
+            }
+        },
+        "run7": {
+            "temp_0.2": {
+                "MR-full-mAP": 18.06,
+                "MR-full-R1@0.5": 32.44
+            }
+        },
+        "run8": {
+            "temp_0.2": {
+                "MR-full-mAP": 15.42,
+                "MR-full-R1@0.5": 26.89
+            }
+        },
+        "run9": {
+            "temp_0.2": {
+                "MR-full-mAP": 15.92,
+                "MR-full-R1@0.5": 29.42
+            }
+        },
+        "run10": {
+            "temp_0.2": {
+                "MR-full-mAP": 20.23,
+                "MR-full-R1@0.5": 36.97
+            }
+        }
+    },
+    "realistic": {
+        "run1": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.56,
+                "MR-full-R1@0.5": 34.29
+            }
+        },
+        "run2": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.79,
+                "MR-full-R1@0.5": 36.69
+            }
+        },
+        "run3": {
+            "temp_0.2": {
+                "MR-full-mAP": 21.48,
+                "MR-full-R1@0.5": 37.79
+            }
+        },
+        "run4": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.24,
+                "MR-full-R1@0.5": 34.98
+            }
+        },
+        "run5": {
+            "temp_0.2": {
+                "MR-full-mAP": 13.11,
+                "MR-full-R1@0.5": 22.36
+            }
+        },
+        "run6": {
+            "temp_0.2": {
+                "MR-full-mAP": 13.87,
+                "MR-full-R1@0.5": 24.49
+            }
+        },
+        "run7": {
+            "temp_0.2": {
+                "MR-full-mAP": 18.08,
+                "MR-full-R1@0.5": 33.54
+            }
+        },
+        "run8": {
+            "temp_0.2": {
+                "MR-full-mAP": 15.24,
+                "MR-full-R1@0.5": 27.64
+            }
+        },
+        "run9": {
+            "temp_0.2": {
+                "MR-full-mAP": 16.16,
+                "MR-full-R1@0.5": 28.26
+            }
+        },
+        "run10": {
+            "temp_0.2": {
+                "MR-full-mAP": 20.49,
+                "MR-full-R1@0.5": 37.72
+            }
+        }
+    },
+    "scribble": {
+        "run1": {
+            "temp_0.2": {
+                "MR-full-mAP": 17.33,
+                "MR-full-R1@0.5": 31.14
+            }
+        },
+        "run2": {
+            "temp_0.2": {
+                "MR-full-mAP": 17.77,
+                "MR-full-R1@0.5": 33.2
+            }
+        },
+        "run3": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.03,
+                "MR-full-R1@0.5": 34.71
+            }
+        },
+        "run4": {
+            "temp_0.2": {
+                "MR-full-mAP": 17.54,
+                "MR-full-R1@0.5": 32.85
+            }
+        },
+        "run5": {
+            "temp_0.2": {
+                "MR-full-mAP": 12.89,
+                "MR-full-R1@0.5": 22.29
+            }
+        },
+        "run6": {
+            "temp_0.2": {
+                "MR-full-mAP": 12.37,
+                "MR-full-R1@0.5": 22.63
+            }
+        },
+        "run7": {
+            "temp_0.2": {
+                "MR-full-mAP": 17.42,
+                "MR-full-R1@0.5": 32.24
+            }
+        },
+        "run8": {
+            "temp_0.2": {
+                "MR-full-mAP": 14.37,
+                "MR-full-R1@0.5": 26.34
+            }
+        },
+        "run9": {
+            "temp_0.2": {
+                "MR-full-mAP": 16.25,
+                "MR-full-R1@0.5": 29.15
+            }
+        },
+        "run10": {
+            "temp_0.2": {
+                "MR-full-mAP": 19.19,
+                "MR-full-R1@0.5": 35.12
+            }
+        }
+    }
+}
